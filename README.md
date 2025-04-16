@@ -1,6 +1,6 @@
 # Hey!, I'm Tolga, a Turkish Software Developer 👋🏼:
 🛜 currently working on my own [Website](https://tolgadurman.com)
-<br>👨🏼‍💻 working as a game developer since 2017
+<br>👨🏼‍💻 working as a game developer since 2018
 <br>🎬 just started out with my youtube channel <i>tolga durman</i>
 
 <div style="">
