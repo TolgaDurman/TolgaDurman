@@ -1,7 +1,7 @@
 # Hello, I'm Tolga Durman 👋
 
 <div align="center">
-  <img src="/src/hangee.png" alt="banner image">
+  <img src="/src/hangee.png" alt="banner image" style="pointer-events: none;">
 </div>
 
 <p align="center">
