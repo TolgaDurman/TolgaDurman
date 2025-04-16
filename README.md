@@ -1,6 +1,5 @@
-# Hello World!, I'm Tolga, a Turkish Game Developer 👋🏼:
-🛜 currently working on my own [webpage](https://tolgadurman.com)
-<br>👨🏼‍🎓 studying MBA at Barcelona/Spain
+# Hey!, I'm Tolga, a Turkish Software Developer 👋🏼:
+🛜 currently working on my own [Website](https://tolgadurman.com)
 <br>👨🏼‍💻 working as a game developer since 2017
 <br>🎬 just started out with my youtube channel <i>tolga durman</i>
 
