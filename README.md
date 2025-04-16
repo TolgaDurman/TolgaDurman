@@ -1,7 +1,7 @@
 # Hello, I'm Tolga Durman 👋
 
 <div align="center">
-  <img src="https://api.placeholder/800/200" alt="banner image">
+  <img src="/src/hangee.png" alt="banner image">
 </div>
 
 <p align="center">
