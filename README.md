@@ -1,7 +1,7 @@
 # Hey!, I'm Tolga, a Turkish Software Developer 👋🏼:
 ## 🛜 Currently working on my own [Website](https://tolgadurman.com)<br /> 👨🏼‍💻 Working as a game developer since 2018
 
-<div style="">
+<div align="center" width="100%">
   <picture>
     <img alt="coding" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" />
   </picture>
@@ -77,18 +77,18 @@
 </picture>
 
 # 📊 GitHub Stats:
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false" anchor="center" />
-</picture>
-<br />
-<picture>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=false" anchor="center" />
-</picture>
-<br />
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" anchor="center" />
-</picture>
-
+<div align="center" width="100%">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  </picture>
+  <picture>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=false" />
+  </picture>
+  <br />
+  <picture width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%" />
+  </picture>
+</div>
 
 ## 🏆 GitHub Trophies
 <picture>
