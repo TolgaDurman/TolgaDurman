@@ -77,13 +77,22 @@
 </picture>
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false" anchor="center" />
+</picture>
+<br />
+<picture>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=false" anchor="center" />
+</picture>
+<br />
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" anchor="center" />
+</picture>
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tolgadurman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=tolgadurman&theme=radical&no-frame=false&no-bg=true&margin-w=4" anchor="center" />
+</picture>
 
 ---
