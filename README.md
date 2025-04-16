@@ -1,5 +1,5 @@
 <picture>
-  <img alt="coding" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
+  <img alt="coding" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" />
 </picture>
 
 # Hello World!, I'm Tolga, a Turkish Game Developer 👋🏼:
