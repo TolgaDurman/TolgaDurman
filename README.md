@@ -1,8 +1,6 @@
 <picture>
-  <img alt="github-snake" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img alt="coding" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" />
 </picture>
-
-![GitHub Banner]()
 
 # Hello World!, I'm Tolga, a Turkish Game Developer 👋🏼:
 🛜 currently working on my own [webpage](https://tolgadurman.com)
