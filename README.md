@@ -1,6 +1,5 @@
 # Hey!, I'm Tolga, a Turkish Software Developer 👋🏼:
-🛜 currently working on my own [Website](https://tolgadurman.com)
-<br>👨🏼‍💻 working as a game developer since 2018
+## 🛜 Currently working on my own [Website](https://tolgadurman.com)<br /> 👨🏼‍💻 Working as a game developer since 2018
 
 <div style="">
   <picture>
@@ -88,4 +87,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=tolgadurman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tolgadurman&icon=0&color=0)](https://visitcount.itsvg.in)
