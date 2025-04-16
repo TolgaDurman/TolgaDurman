@@ -1,8 +1,9 @@
 # Hello, I'm Tolga Durman 👋
 
 
-
-<iframe frameborder="0" src="https://itch.io/embed/3149405" width="552" height="167"><a href="https://tolgadurman.itch.io/cat-escape-playable">Cat Escape Playable by TolgaDurman</a></iframe>
+<picture align="center">
+  <img src="/src/hangee.png" alt="banner image" style="pointer-events: none;">
+</picture>
 
 <p align="center">
   <a href="https://yourwebsite.com">
