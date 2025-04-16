@@ -1,4 +1,6 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<picture>
+<source srcset="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GitHub Banner" width="100%" />
+</picture>
 
 # Hello World!, I'm Tolga, a Turkish Game Developer 👋🏼:
 🛜 currently working on my own [webpage](https://tolgadurman.com)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
