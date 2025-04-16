@@ -1,13 +1,10 @@
-![measf]("https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g")
-<source srcset="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GitHub Banner" width="100%" />
-</picture>
+![GitHub Banner](https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # Hello World!, I'm Tolga, a Turkish Game Developer 👋🏼:
 🛜 currently working on my own [webpage](https://tolgadurman.com)
 <br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik
 <br>👨🏼‍💻 working as a web developer since 2022 
 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
-
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
