@@ -1,8 +1,11 @@
 # Hello, I'm Tolga Durman 👋
 
-<div align="center">
+
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+![test](/src/hangee.png)
+<a align="center">
   <img src="/src/hangee.png" alt="banner image" style="pointer-events: none;">
-</div>
+</a>
 
 <p align="center">
   <a href="https://yourwebsite.com">
