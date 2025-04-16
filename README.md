@@ -78,12 +78,12 @@
 
 # 📊 GitHub Stats:
 <div align="center" width="100%">
-  <picture width="20%">
+  <picture height="100px">
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=default&hide_border=true" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=true" width="120%"/>
   </picture>
-  <picture width="50%">
+  <picture height="100px">
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
