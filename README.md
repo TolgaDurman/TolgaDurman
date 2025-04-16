@@ -1,12 +1,22 @@
-<picture>
-  <img alt="coding" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="20%" />
-</picture>
-
 # Hello World!, I'm Tolga, a Turkish Game Developer 👋🏼:
 🛜 currently working on my own [webpage](https://tolgadurman.com)
-<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik
-<br>👨🏼‍💻 working as a web developer since 2022 
-<br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+<br>👨🏼‍🎓 studying MBA at Barcelona/Spain
+<br>👨🏼‍💻 working as a game developer since 2017
+<br>🎬 just started out with my youtube channel <i>tolga durman</i>
+
+<div style="">
+  <picture>
+    <img alt="coding" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif?cid=ecf05e47xs44iwbs9lm40sokhr75wejgmpmbrzx10uiisodv&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" />
+  </picture>
+  <picture>
+    <img alt="coding" src="https://media.giphy.com/media/3xz2Bw12fe9iyG06v6/giphy.gif?cid=ecf05e47h91l5y7sjefsgvt7sj8qj54m1ijr7h04i4cgdvlt&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" />
+  </picture>
+  <picture>
+    <img alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RxamRxdWc2OGc2dWs2MnJzcTR4NnF0ODFka2VsZXNhdjgwOWEweCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DBW3BniaWrFo4/giphy.gif" height="200px" />
+  </picture>
+</div>
+  
+
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
