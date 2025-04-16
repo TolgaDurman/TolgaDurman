@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Tolga Durman 👋
 
 <div align="center">
   <img src="https://api.placeholder/800/200" alt="banner image">
