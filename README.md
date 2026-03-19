@@ -89,9 +89,4 @@
   </picture>
 </div>
 
-## 🏆 GitHub Trophies
-<picture>
-  <img src="https://github-profile-trophy.vercel.app/?username=tolgadurman&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
-</picture>
-
 ---
