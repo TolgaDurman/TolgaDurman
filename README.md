@@ -75,18 +75,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tolgadurman/tolgadurman/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
-<div align="center" width="100%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=default&hide_border=true" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=tolgadurman&theme=dark&hide_border=true" height="190px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolgadurman&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="190px"/>
-  </picture>
-</div>
-
 ---
